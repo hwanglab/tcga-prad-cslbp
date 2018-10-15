@@ -5,4 +5,4 @@ you can extract CSLBP features using programs under step 1) directory
 
 you can test cross-validation using programs under step 2) directory
 
-the paper description is in the link:https://www.biorxiv.org/content/early/2018/05/09/315648
+the technique description is in the link: https://www.biorxiv.org/content/early/2018/05/09/315648
