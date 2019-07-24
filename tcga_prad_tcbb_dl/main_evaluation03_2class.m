@@ -20,10 +20,10 @@ pred_all(~(sum(tt,2)==-2),:)=tt(~(sum(tt,2)==-2),:);
 tt=cell2mat(pred03');
 pred_all(~(sum(tt,2)==-2),:)=tt(~(sum(tt,2)==-2),:);
 
-p=randperm(408,20);
-temp=pred_all(p,1);
-pred_all(p,1)=pred_all(p,2);
-pred_all(p,2)=temp;
+%p=randperm(408,20);
+%temp=pred_all(p,1);
+%pred_all(p,1)=pred_all(p,2);
+%pred_all(p,2)=temp;
 
 cg7=0;
 cg8_9=0;
