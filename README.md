@@ -24,3 +24,5 @@ Once your environment has met the requirments (see requirements), you could run 
   - To run the "main_feasExtrcation.m", make sure that YOU should change the imageTrainPath (line 39) and imageDebugPath (line 43) to the local address of your computer
   
   - The extracted image features are finnally saved into the .mat files, please feel free to check and revise in lines: 161-162, for your convenience
+  
+  
