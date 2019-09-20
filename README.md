@@ -19,4 +19,5 @@ The folder "tcga_prad_tcbb_dl" mainly includes Python programs for us to test ba
 ## Usage Info.
 Once your environment has met the requirments (see requirements), you could run our method by following steps:
 
-- (1) run the main_featsExtraction.m (in step1)feature_extrction folder)
+- (1) go to the folder "step1)feature_extrction", then run the function "main_feasExtraction.m"
+-- to run the "main_feasExtrcation.m", make sure that YOU should change the imageTrainPath (line 39) and imageDebugPath (line 43) to the local address of your computer
