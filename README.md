@@ -25,4 +25,5 @@ Once your environment has met the requirments (see requirements), you could run 
   
   - The extracted image features are finnally saved into the .mat files, please feel free to check and revise in lines: 161-162, for your convenience
   
-  
+  ![Test Image 1](https://github.com/hwanglab/tcga-prad-cslbp/blob/master/misc_figs/step1.jpg.jpeg)
+
