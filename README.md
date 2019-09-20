@@ -36,3 +36,6 @@ Once your environment has met the requirments (see requirements), you could run 
   
   - If you computed features on your dataset with our function "main_feasExtraction.m", you need to adaptively make changes such as the line 11 in main_crossValidation.m for cross-validation testing.
   
+- (3) the folder "step3)plot_figures" includes the matlab files for generating figures, you could run them directly
+
+- (4) the folder "step4)comparion" includes textrue features for comparison, you could run them similarly as "step2)feature_classification"
