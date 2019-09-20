@@ -31,5 +31,6 @@ Once your environment has met the requirments (see requirements), you could run 
   
 - (2) go to the folder "step2)feature_classification", you could run our classifcation evaluations
 
-  - In the folder tcga_288_25, it includes the .mat files with features computed by running the function "main_feasExtraction.m" on our dataset. So if you want to see our results, you could directly run the function "main_crossValiation.mat"
+  - In the folder tcga_288_25, it includes the .mat files with features computed by running the function "main_feasExtraction.m" on our dataset. 
+  - So if you want to see our results, you could directly run the function "main_crossValiation.mat". NOTE That you could change the lines 51-54 to select SVM classifier with different kernels
   
