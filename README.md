@@ -13,3 +13,8 @@ The folder "TCGA_PRAD_Gleason_Score_Prediction_CSLBP" includes Matlab programs o
 - step2)feature_classification
 - step3)plot_figures
 - step4)comparison
+
+The folder "tcga_prad_tcbb_dl" mainly includes Python programs for us to test baseline deep learning models for comparison in the paper
+
+## Usage Info.
+To run our method, you should follow the following steps:
