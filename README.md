@@ -25,5 +25,7 @@ Once your environment has met the requirments (see requirements), you could run 
   
   - The extracted image features are finnally saved into the .mat files, please feel free to check and revise in lines: 161-162, for your convenience
   
+  Overall, by running the main_feasExtraction.m, we descrbe each WSI by a 1152 dimensional feature vector, i.e.,
+  
   ![Test Image 1](https://github.com/hwanglab/tcga-prad-cslbp/blob/master/misc_figs/step1.jpg.jpeg)
 
