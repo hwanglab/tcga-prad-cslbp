@@ -1,0 +1,5 @@
+in patches folder, it includes all the patches, where
+512*512 patches with 10x magnification
+256*256 patches with 5x magnification
+
+we use 5x with tcbb paper
