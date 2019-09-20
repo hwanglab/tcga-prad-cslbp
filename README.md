@@ -28,4 +28,6 @@ Once your environment has met the requirments (see requirements), you could run 
   Overall, by running the main_feasExtraction.m, we descrbe each WSI by a 1152 dimensional feature vector, i.e.,
   
   ![Test Image 1](https://github.com/hwanglab/tcga-prad-cslbp/blob/master/misc_figs/step1.jpg.jpeg)
+  
+- (2) go to the folder "step2)feature_classification", you could run our classifcation evaluations
 
