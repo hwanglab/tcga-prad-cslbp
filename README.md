@@ -21,4 +21,4 @@ Once your environment has met the requirments (see requirements), you could run 
 
 - (1) go to the folder "step1)feature_extrction", then run the function "main_feasExtraction.m"
 
-* to run the "main_feasExtrcation.m", make sure that YOU should change the imageTrainPath (line 39) and imageDebugPath (line 43) to the local address of your computer
+- to run the "main_feasExtrcation.m", make sure that YOU should change the imageTrainPath (line 39) and imageDebugPath (line 43) to the local address of your computer
