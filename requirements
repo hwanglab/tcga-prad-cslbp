@@ -1,1 +1,7 @@
+1) download tcga_prad whole slide images from the website:
+https://portal.gdc.cancer.gov/projects/TCGA-PRAD
 
+2) download openslide matlab from the website:
+https://github.com/fordanic/openslide-matlab
+
+3) Matlab image processing toolbox
